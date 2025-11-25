@@ -19,3 +19,14 @@ Review API and backend communication
 Verify session security and cookie handling
 
 Ensure secure deployment practices
+##OWASP Top 10 Relevant Areas
+
+Broken Access Control
+
+Cryptographic Failures
+
+Injection (SQLi, Command Injection)
+
+Insecure Design
+
+Security Misconfiguration
